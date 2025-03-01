@@ -44,6 +44,9 @@ GitHub: https://github.com/BekmamatItnation
 ## Screenshots
 ![screenshot_gradio](https://github.com/user-attachments/assets/0be04bb5-b6b6-4e09-9780-b3723c2d7027)
 
+##try it live
+Test the model here: [Hugging Face Space](https://huggingface.co/spaces/Blackmamat/Movie-review-sentiment)
+
 Date: March 2025
 
 License
