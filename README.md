@@ -31,7 +31,7 @@ requirements.txt - List of Python dependencies.
 ##Results
 Best Model: Logistic Regression with an accuracy of ~88%.
 
-Example:
+##Example:
  Input: "This movie is amazing!"
  Output: "Positive"
  Input: "Terrible film, waste of time."
@@ -41,7 +41,11 @@ Author
 Name: BekmamatItnation
 GitHub: https://github.com/BekmamatItnation
 
+## Screenshots
+![screenshot_gradio](https://github.com/user-attachments/assets/0be04bb5-b6b6-4e09-9780-b3723c2d7027)
+
 Date: March 2025
 
 License
 MIT License
+
