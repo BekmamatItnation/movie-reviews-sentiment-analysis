@@ -30,11 +30,12 @@ requirements.txt - List of Python dependencies.
 
 ##Results
 Best Model: Logistic Regression with an accuracy of ~88%.
+
 Example:
-Input: "This movie is amazing!"
-Output: "Positive"
-Input: "Terrible film, waste of time."
-Output: "Negative"
+ Input: "This movie is amazing!"
+ Output: "Positive"
+ Input: "Terrible film, waste of time."
+ Output: "Negative"
 
 Author
 Name: BekmamatItnation
